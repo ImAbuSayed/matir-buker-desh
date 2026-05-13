@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Matir Buker Desh
+
+This log tracks the cryptographic history and versioning for the song **Matir Buker Desh** (matir-buker-desh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T08:57:20.847499 | `v1` | `f698b3d93e6d3b041e93e229729a47a52ba7058d4d22db6dedcb4286021e8690` | `27c6bb3b1f7c3a54161705a4f798688f3849f00690607fcf85f7d9f597c4e7ad` | `2026-05-13_matir-buker-desh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

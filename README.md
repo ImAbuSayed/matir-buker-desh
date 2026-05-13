@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/matir-buker-desh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Matir Buker Desh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/matir-buker-desh/) |
+| **Get License** | [Get a Licensing Quote for Matir Buker Desh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/matir-buker-desh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f698b3d93e6d3b041e93e229729a47a52ba7058d4d22db6dedcb4286021e8690` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
