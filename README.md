@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/matir-buker-desh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Matir Buker Desh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/matir-buker-desh/) |
+| **Get License** | [Commercial Licensing for Matir Buker Desh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/matir-buker-desh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধারের এই শহরে তুমি আমারই ছায়া
+> তোমার চোখের গভীরে মাতাল করা মায়া
+> কাছে এসো আজ রাতে উঠুক বুনো ঝড়
+> তোমার উষ্ণ ছোঁয়ায় ভাঙুক যত ডর
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
